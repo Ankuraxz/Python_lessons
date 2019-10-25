@@ -36,6 +36,8 @@ print(a)
 a = [[2, 4, 6, 8, 10], [3, 6, 9, 12, 15], [4, 8, 12, 16, 20]] 
 a[2].reverse() 
 print(a) 
+a.reverse()
+print(a)
 
 "10 20 30 40 50".split() #Str-List
 
